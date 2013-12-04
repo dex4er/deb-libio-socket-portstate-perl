@@ -1,0 +1,17 @@
+Source: libio-socket-portstate-perl
+Section: perl
+Priority: optional
+Maintainer: Piotr Roszatycki <dexter@debian.org>
+Build-Depends: debhelper (>= 9.20120312)
+Build-Depends-Indep: perl
+Standards-Version: 3.9.5
+Homepage: https://metacpan.org/release/IO-Socket-PortState
+
+Package: libio-socket-portstate-perl
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends}
+Description: unknown
+ You can use it to check if a port is open or closed for a given host and
+ protocol.
+ .
+ This description was automagically extracted from the module by dh-make-perl.
