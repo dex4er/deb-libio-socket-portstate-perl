@@ -1,19 +1,11 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Source: https://metacpan.org/release/IO-Socket-PortState
-Upstream-Contact: unknown
+Upstream-Contact: Daniel Muey <dmuey@cpan.org>
 Upstream-Name: IO-Socket-PortState
-DISCLAIMER: This copyright info was automatically extracted 
- from the perl module. It may not be accurate, so you better 
- check the module sources in order to ensure the module for its 
- inclusion in Debian or for general legal information. Please, 
- if licensing information is incorrectly generated, file a bug 
- on dh-make-perl.
- NOTE: Don't forget to remove this disclaimer once you are happy
- with this file.
 
 Files: *
-Copyright: unknown
-License: 
+Copyright: 2005, Daniel Muey
+License: Artistic or GPL-1+
 
 Files: debian/*
 Copyright: 2013, Piotr Roszatycki <dexter@debian.org>
