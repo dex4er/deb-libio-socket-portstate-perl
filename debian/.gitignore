@@ -1,0 +1,6 @@
+/*.log
+/*.substvars
+/files
+/tmp/
+
+/libio-socket-portstate-perl/
