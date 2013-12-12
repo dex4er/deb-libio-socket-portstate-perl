@@ -1,5 +1,5 @@
 libio-socket-portstate-perl (0.03-1) unstable; urgency=low
 
-  * Initial Release. Closes: ##731379.
+  * Initial Release. Closes: #731379.
 
  -- Piotr Roszatycki <dexter@debian.org>  Wed, 4 Dec 2013 20:43:15 +0100
